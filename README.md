@@ -12,3 +12,6 @@ docker compose up -d     # or: podman-compose up -d
 ```
 
 License: MIT
+
+## Disclaimer
+Provided for educational and defensive purposes only, as-is and without warranty. Use only on systems and accounts you own or are explicitly authorized to manage. Review and test in a non-production environment before use.
